@@ -3,6 +3,8 @@
 Permet à partir de la durée de vie d'un sort et d'un ensemble de modifier de calculer facilement un [Wisp](https://noita.wiki.gg/wiki/Guide:_Infinite_Lifetime_Spells) pour Noita
 C'est une reprise d'un de mes vieux code, à l'origine en Rust, je l'ai juste repris pour lui donner une interface sympa
 
+![Sample](images/example.png)
+
 ## Dependance & Prérequis
 
 Pensez à récupérer imgui-docking, inclus dans les sub-modules :
