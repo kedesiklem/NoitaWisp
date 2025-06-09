@@ -5,6 +5,20 @@ C'est une reprise d'un de mes vieux code, à l'origine en Rust, je l'ai juste re
 
 ![Sample](images/example.png)
 
+## Fonctionnalité
+
+- Calcule de wisp pour n'importe quel interval de lifetime de depart
+- Target parametrable
+- Modifier utilisé parametrable
+
+## TODO
+
+- Selection de lifetime via selection de sort (pour plus d'ergonomie)
+- Selection du nombre de modifier (parametrage individuel)
+- Multi-Icon pour les modifiers identique en pratique
+- Prise en charge de proposition de build (calcule avec division-spell)
+- Affichage du % de reussite du sort
+
 ## Dependance & Prérequis
 
 Pensez à récupérer imgui-docking, inclus dans les sub-modules :
